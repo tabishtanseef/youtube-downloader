@@ -59,7 +59,7 @@
       </div>
     </div>
 <footer>
-  <span class="copyright">Copyright © RDRINFOTECH<?php echo $config['site_title']; ?>. All Rights Reserved.</span>
+  <span class="copyright">Copyright © TechLedge. All Rights Reserved.</span>
 </footer>
 <script type="text/javascript" src="js/bootstrap.min.js"></script>
 <script type="text/javascript" src="js/jquery.slicknav.min.js"></script>
